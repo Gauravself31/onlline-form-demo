@@ -1,0 +1,28 @@
+
+.heading{
+  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: black;
+  font: size 200px;;
+  background-color:orange;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  margin-top: 0%;
+  
+}
+.Name{
+  background-color: aquamarine;
+ padding-top: 0%;
+padding-bottom: 1%;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.foot{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+  background-color: orange;
+  padding-top: 2px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+
